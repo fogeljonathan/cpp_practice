@@ -20,6 +20,6 @@ In the console: run the following.
 
 ```
 cd LOCAL_REPO_PATH
-g_++ FILE_NAME.cpp
+g++ FILE_NAME.cpp
 .\a.exe
 ```
